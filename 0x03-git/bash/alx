@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-echo Alx school
 /bin/bash/
-=======
-/bin/bash
-echo Alx School is so cool
->>>>>>> master
+echo Alx School
